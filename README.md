@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Alura Fokus</h1>
+<h1 align="center"> Projeto Fokus</h1>
 
 <p align="center">
 Neste projeto desenvolvi um sistema Pomodoro em JavaScript com foco na manipulação do DOM, que faz parte da Formação Front-End Alura.❤️<br/>
@@ -38,8 +38,6 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 "Alura Fokus".<br>
 
-Um sistema para auxiliar no monitorizamento dos estudos, utilizando a metodologia pomodoro. <br>
+Um sistema para auxiliar no monitoramento dos estudos, utilizando a metodologia pomodoro. <br>
 Contendo 3 opções: Foco, Descanso Curto e Descanso Longo. <br>
 E música relaxante.
-
-<br>Visualize aqui meu projeto:<a href="https://atili0moreira.github.io/fokus/"> "Fokus".</a>🚀
